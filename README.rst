@@ -1,14 +1,13 @@
 Mathlot
 =========
 
-=========
 A platform for Numerical analysis and photographic
-=========
-
+---------------------------------------------------
+------
 Glance
 ------
 
-
+----
 TODO
 -----
 
@@ -16,10 +15,10 @@ TODO
  * Graphs libraries contributed with C.
  * Web and RPC service contributed with django.
  
-
+-------
 Lisence
 --------
 
 MIT lisence.
 
-Copyright (c) mathlot.com
+Copyright (c) Addbook.cn
