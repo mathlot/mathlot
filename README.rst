@@ -1,7 +1,7 @@
 Mathlot
 =========
 
-A platform for Numerical analysis and photographic
+A platform for Numerical analysis and photograph
 ---------------------------------------------------
 ------
 Glance
