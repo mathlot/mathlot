@@ -1,19 +1,14 @@
 Mathlot
 =========
 
-**A platform for Numerical analysis and photographic**
+A platform for Numerical analysis and photographic.
 
 
-install
-------
 
 Contact us
 ------------
- * Our Archtichture will be on the blog `Addbook <www.addbook.cn/>`_
+ * Our Architechture will be on the blog `Addbook <http://www.addbook.cn/>`_
  * You can also send a mail to scuiap(at)gmail.com
-
-Contributor & Maintainer
-------------------------
 
 
 TODO
